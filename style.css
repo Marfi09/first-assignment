@@ -93,6 +93,10 @@ div img{
     font-weight: bolder;
     font
 }
+#new{
+    background-image: url('img_girl.jpg')
+}
+
 #end{
     background-color: black;
     height: 200px;
