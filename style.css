@@ -93,3 +93,20 @@ div img{
     font-weight: bolder;
     font
 }
+#end{
+    background-color: black;
+    height: 200px;
+}
+#mission-2022{
+    color: #fff; font-family: 'Righteous', cursive; font-size: 50px; font-weight: normal; line-height: 100px; margin: 10px 0 20px; text-transform: uppercase; text-shadow: 2px 2px 0 #000, margin: 10px 0 24px; text-align: center;
+    
+}
+#two{
+    color: rgb(131, 119, 9);
+}
+#last{
+    text-align: center;
+    color: rgb(194, 166, 166);
+    font-size: 20px;
+}
+    
