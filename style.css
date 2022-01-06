@@ -33,6 +33,21 @@ div h1{
     padding: 100px;
     
 }
+
+#background-left{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#background-right{
+
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .left-right{
     width: 50%;
     padding-left: 5%;
@@ -76,14 +91,16 @@ div h2{
 div img{
     width: 200px;
 }
-#green{
-    background-color: rgb(188, 189, 143);
+#yellow{
+    background-color: rgb(136, 190, 169);
+    
 }
 #pink{
     background-color: rgb(185, 145, 167);
 }
-#yellow{
-    background-color: rgb(136, 190, 169);
+#green{
+   
+    background-color: rgb(188, 189, 143);
 }
 .box-text{
    margin: 20px 30px;
@@ -103,7 +120,7 @@ div img{
 }    
 
 #two{
-    color: rgb(131, 119, 9);
+    color: rgb(131, 9, 101);
 }
 #last{
     text-align: center;
